@@ -1,0 +1,1 @@
+First Sample App by Ruby on Rails. SMD
